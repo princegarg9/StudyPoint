@@ -1,0 +1,64 @@
+@charset "ISO-8859-1";
+
+* {
+	background-color: rgb(194,211,243);
+	font-family:Arial;
+}
+
+#usrlog {
+	float:right;
+}
+#crs , #mem{
+	text-align:center;
+	margin:3px;
+	background-color:black;
+}
+
+#mem {
+	visibility:hidden;
+}
+
+#pmnt:hover {
+	background-color:lightgreen;
+}
+
+a1 {
+	color:red;
+}
+#name {
+	text-align:center;
+	background-color:orange;
+	font-family: courier;
+	font-size:40px;
+	font-weight:bold;
+}
+aside {
+	text-align: center;
+}
+article {
+	width:90%;
+	margin-left:2em;
+}
+
+
+button {
+	padding:0.5em;
+	margin:10px;
+	width:100px;
+	margin-left:1em;
+	background-color:#c0c0c0;
+}
+button:hover{
+	background-color:lightgreen;
+}
+ul {
+	margin-left:25em;
+}
+
+img {
+	padding:1em;
+}
+
+#admn {
+	width:250px;
+}
